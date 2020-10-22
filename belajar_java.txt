@@ -1,3 +1,5 @@
 Tekad:
 1. Tiap minggu ada minimal 1 file ditambahkan ke sini.
 2. Belajar tetang progarm dan git.
+
+3. Mengajak teman untuk belajar bersama.
